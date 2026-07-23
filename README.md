@@ -4,7 +4,7 @@ Welcome to my Python learning journey!
 
 ## About Me
 
-Hi! I'm Tiny Ngobeni, a Chemical Engineer and MSc researcher with a growing interest in Data Science and Machine Learning.
+Hi! I'm Tiny Ngobeni, a Chemical Engineering graduate and MSc researcher with a growing interest in Data Science and Machine Learning.
 
 This repository documents my progress as I learn Python through hands-on programming, problem-solving, and engineering applications.
 
